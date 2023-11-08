@@ -5,8 +5,6 @@
 
 
 # ======= A ======= #
-# amdc
-^http:\/\/amdc\.m\.taobao\.com url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/amdc.js
 # 爱思助手 //list-app-m.i4.cn
 ^https:\/\/list-app-m\.i4\.cn\/(adclickcb|getHotSearchList|getopfstadinfo)\.xhtml url reject
 # 阿里云盘 //api.alipan.com, member.alipan.com
